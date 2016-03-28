@@ -1,0 +1,19 @@
+
+
+.outer {
+  background-color: #CCC;
+  height: 400px;
+  width: 400px;
+}
+
+.middle {
+  background-color: #FF0;
+  height: 200px;
+  width: 200px;
+}
+
+.inner {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+}
