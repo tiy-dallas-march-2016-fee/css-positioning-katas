@@ -1,0 +1,39 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #000;
+  color: #FFF;
+  padding: 15px 10px;
+}
+
+header h1 {
+  margin: 0;
+}
+
+.sidebar {
+}
+
+.sidebar ul {
+  padding: 0;
+}
+
+.sidebar li {
+  list-style-type: none;
+  margin: 0;
+}
+
+.post {
+  background-color: #EEE;
+}
+
+footer {
+  background-color: #000;
+  color: #FFF;
+  clear: both;
+  padding: 20px 0;
+  text-align: center;
+}
